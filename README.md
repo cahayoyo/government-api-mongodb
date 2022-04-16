@@ -28,6 +28,9 @@ Fetching JSON data with MongoDB and NodeJS
 nodemon app
 ```
 
+Use [postman](https://www.postman.com/)
+
+
 ## The Endpoint List
 ### Get Role List
 by default it will only show 10 data per page, add page=x to search specific page
